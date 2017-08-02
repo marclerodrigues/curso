@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 altera_marcle
 
 
@@ -18,7 +19,9 @@ Alterei o aqrquivo
 
 
 
+
 Arquivo
+
 
 
 
@@ -32,6 +35,7 @@ Hernandez =)
 
 
 
+
 	╔═════╗
 	║  R  ║
 	╠═════╣
@@ -41,7 +45,7 @@ Hernandez =)
 	╠═════╣
 	║  Y  ║
 	╚═════╝
-
+	
 	╔═════╗
 	║  R  ║
 	╠═════╣
@@ -51,4 +55,5 @@ Hernandez =)
 	╠═════╣
 	║  L  ║
 	╚═════╝
+
 
